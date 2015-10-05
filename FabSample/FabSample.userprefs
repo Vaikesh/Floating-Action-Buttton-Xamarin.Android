@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="FabSample\FabSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.API_21_Lollipop" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FabSample\Resources\values\Strings.xml">
+    <Files>
+      <File FileName="FabSample\Resources\values\Strings.xml" Line="2" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Vaikesh" Email="vaikesh4leo@gmail.com" Copyright="" Company="" Trademark="" />
+  <MonoDevelop.Ide.ItemProperties.FabSample AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
